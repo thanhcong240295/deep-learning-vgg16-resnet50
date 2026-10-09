@@ -1,0 +1,8 @@
+tensorflow>=2.16,<2.21
+matplotlib>=3.8,<3.10
+ipykernel>=6.29,<7
+kagglehub>=0.3.13,<0.4; python_version < "3.10"
+kagglehub>=0.4,<2; python_version >= "3.10"
+pandas>=2.2,<3
+jinja2>=3.1,<4
+pillow>=10,<13
